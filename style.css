@@ -12,7 +12,7 @@
     overflow: hidden;
 }
 
-.left-colunm{
+.left-column{
     flex-basis: 50%;
     height: 700px;
     background-image: url(./images/plants.jpg);
@@ -21,7 +21,7 @@
     
 }
 
-.right-colunm{
+.right-column{
     flex-basis: 50%;
     height: 700px;
     background-color: #6a9f7e;
